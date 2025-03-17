@@ -10,4 +10,4 @@ Este projeto utiliza um modelo de IA para sugerir acordes de piano com base em:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/marcioedumelo/pianocifras.git
+   git clone https://github.com/marcioeduardomelo/pianocifras.git
